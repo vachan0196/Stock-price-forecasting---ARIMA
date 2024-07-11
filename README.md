@@ -1,4 +1,4 @@
-# Stock-price-forecasting---ARIMA
+# Stock-price-forecasting--(ARIMA)
 
 # Time Series Forecasting
 
